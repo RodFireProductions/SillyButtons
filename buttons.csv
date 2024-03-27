@@ -1,4 +1,4 @@
-name,number
-High five,0
-Hug,0
-Kill,0
+id,name,number
+0,"😊 smile politely",0
+1,"🌟 high-five!",0
+2,"pipe bomb",0
